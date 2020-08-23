@@ -1,1 +1,2 @@
-# Assignment_1
+# CMP73010
+This is for assignment 1
